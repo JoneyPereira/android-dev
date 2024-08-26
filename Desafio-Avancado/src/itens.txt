@@ -1,2 +1,0 @@
-feijao, 400
-arroz, 200
