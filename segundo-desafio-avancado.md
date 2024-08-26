@@ -1,4 +1,3 @@
-
 # Instruções segundo DESAFIO - Avançado'!'
 
 1. Sistema para organizar seus dados sobre os corais e a área protegida.
@@ -10,6 +9,14 @@
 2. A entrega será em equipe, então compartilhem conhecimento e ajudem uns aos outros. 
    A colaboração entre todos é fundamental para o aprendizado.
 3. Os monitores estarão disponíveis para ajudar vocês com qualquer dúvida ou dificuldade.
+
+# Desafio - Avançado
+
+ <p> Crie a classe 'ConservacaoMarinha' para gerenciar informaçõs fundamentais sobre conservação marinha, incluindo propriedades como tipo de ambiente marinha, área protegida em km² e a presença de programas de monitoramento. Implemente um metodo para calcular a eficiencia de conservação e adapte o programa para diferentes ecossistemas marinhos.
+ 
+ ## Objetivos
+ 
+ <p>Sobrescrita e Sobrecarga, companion object, classe abstrata, interface, polimorfismo e classe anonima.
 
 ## Data de Início: 21/08
 
