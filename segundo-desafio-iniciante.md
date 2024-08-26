@@ -12,7 +12,7 @@
 
 # Desafio - Iniciante
 
- <p> Impleente a classe 'ConservacaoMarinha' para gerenciar informações fundamendais sobre conservação marinha, incluindo propriedades como tipo de ambiente marinho, área protegida em km² e a presença de programas de monitoramento.
+ <p> Implemente a classe 'ConservacaoMarinha' para gerenciar informações fundamendais sobre conservação marinha, incluindo propriedades como tipo de ambiente marinho, área protegida em km² e a presença de programas de monitoramento.
  
  ## Objetivos
  

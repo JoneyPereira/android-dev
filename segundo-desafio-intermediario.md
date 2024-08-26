@@ -12,7 +12,7 @@
 
 # Desafio - Intermediario
 
- <p> Crie a classe 'ConservacaoMarinha' para gerenciar informações essenciais sobre conservação marinha, com propriedades como tipo de ambiente marinha, área protegida em km² e a presença de programas e monitoremento. Além disso, desenvolva subclasses como 'ReservaMarinha' ou 'AreaProtegidaMarinha' e enumere ostipos de ambientes disponiveis.
+ <p> Crie a classe 'ConservacaoMarinha' para gerenciar informações essenciais sobre conservação marinha, com propriedades como tipo de ambiente marinha, área protegida em km² e a presença de programas e monitoremento. Além disso, desenvolva subclasses como 'ReservaMarinha' ou 'AreaProtegidaMarinha' e enumere os tipos de ambientes disponiveis.
  
  ## Objetivos
  
