@@ -13,3 +13,9 @@ fun main() {
     val dados = DadosConservacao("Reserva Baía", TipoAmbienteMarinho.BAIA, 120.0, false)
     println("Dados de Conservação: $dados")
 }
+/*
+ - Equipe: Bitpulse 
+ - Alan Andrade Nogueira
+ - Lucas Souza de Almeida
+ - Joney Sousa Pereira
+*/
