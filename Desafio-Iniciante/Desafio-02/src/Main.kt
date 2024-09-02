@@ -15,3 +15,9 @@ fun main() {
     conservacao.monitoramento = false
     println("Programas de Monitoramento Atualizado: ${conservacao.monitoramento}")
 }
+/*
+ - Equipe: Bitpulse 
+ - Alan Andrade Nogueira
+ - Lucas Souza de Almeida
+ - Joney Sousa Pereira
+*/
