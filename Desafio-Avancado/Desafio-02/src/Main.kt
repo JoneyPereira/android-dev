@@ -26,3 +26,9 @@ fun main() {
     areaProtegidaDesconhecida.detalhesConservacao()
     println("Eficiência da Conservação: ${areaProtegidaDesconhecida.calcularEficiencia()}%")
 }
+/*
+ - Equipe: Bitpulse 
+ - Alan Andrade Nogueira
+ - Lucas Souza de Almeida
+ - Joney Sousa Pereira
+*/
